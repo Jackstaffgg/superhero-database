@@ -1,0 +1,32 @@
+.table,tr,td{
+	padding: 10px 15px;
+	text-align: center;
+	background-color: #fff2c7;
+	border: 0px solid white;
+	margin: 0px;
+}
+.table__top{
+	background: linear-gradient(to right, #780101, #ed9595);
+	color: yellow;
+	text-transform: uppercase;
+}
+.firs__color{
+	background: linear-gradient(to right, #8c1111,#a64c4c);
+}
+.second__color{
+	background: linear-gradient(to right,#9c5a5a,#ed9191)
+}
+th{
+	padding: 10px;
+}
+.color__red{
+	background-color: #7a0f0f;
+}
+.link{
+	text-decoration: none;
+	color: #660000;
+	
+}
+.table{
+	border: 4px solid black;
+}
